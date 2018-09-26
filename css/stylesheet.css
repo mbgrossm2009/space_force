@@ -27,16 +27,6 @@ a.nav-item {
 
     width: 100%;
     height:auto;
-    /* height: auto; */
-}
-
-#transport{
-    display: block;
-    height: auto;
-    max-width: 100%;
-    line-height: 1;
-    margin:auto;
-    width: 100%;
 }
 
 
@@ -52,19 +42,6 @@ a.nav-item {
     width:100%;
 }
 
-#space_station{
-    width:420px;
-    height:auto;
-}
-
-#space_travel{
-    
-    width:420px;
-    height:auto; 
-}
-
-
-
 .caption {
     color:white;
 }
@@ -75,12 +52,8 @@ a.nav-item {
 
 }
 
-.row{
-    width:100%;
-}
-
 .space_pics img {
-    margin: 20px;
+    margin: 20px; 
 
 }
 .caption{
@@ -90,13 +63,11 @@ a.nav-item {
 
 
 article {
-    /* margin-top: 50px; */
     color:white;
     font-size: 25px;
 }
 
 .space_pics {
-    /* background-color:#222222; */
     border-style:solid;
     border-width:5px;
 
@@ -109,4 +80,17 @@ article {
     font-style: italic;}
 .trump_quote img {
     border-radius:45%;
+}
+
+.space_pics img {
+    width:600px;
+    height:350px;
+} 
+
+#title {
+    font-size: 67px;
+}
+
+h2 {
+    color:white;
 }
