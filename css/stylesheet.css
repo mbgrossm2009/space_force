@@ -23,10 +23,11 @@ a.nav-item {
 
     }
 
-.item img{
+.item img {
 
     width: 100%;
     height:auto;
+    border-radius: 50%;
 }
 
 
@@ -44,6 +45,11 @@ a.nav-item {
 
 .caption {
     color:white;
+    font-style: italic;
+    font-size: 16px;
+    margin-bottom: 10px;
+    text-align: center;
+    left: 18%;
 }
 
 #slideshow{
@@ -91,4 +97,18 @@ article {
 
 h2 {
     color:white;
+}
+
+table {
+    color: white;
+}
+
+tr, td {
+    font-size: x-large;
+}
+
+#spacePic2 {
+    position: relative;
+    bottom: 215px;
+    zoom:1%;
 }
