@@ -100,7 +100,20 @@ iframe{
 
 #title {
     font-size: 67px;
+    color:white;
 }
+
+
+#subtitle{
+    margin-bottom:28px;
+    color: #66e0ff;
+    font-style:italic;
+
+
+
+
+}
+
 
 h2 {
     color:white;
@@ -129,4 +142,7 @@ tr, td {
     background-color:black;
     /* position:fixed;
     bottom:0; */
+}
+ a {
+    color:white;
 }
